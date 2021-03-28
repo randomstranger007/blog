@@ -1,7 +1,7 @@
 title = "Kubernetes"
 baseURL = "https://singhankit.com"
 languageCode = "en-us"
-theme = "ananke"
+theme = "gohugo-theme-ananke-master"
 [taxonomies]
   tag = "tags" #singular = plural taxonomies
   category = "categories"
