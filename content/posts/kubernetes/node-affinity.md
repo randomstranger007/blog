@@ -1,7 +1,7 @@
 ---
 title: "Node Affinity"
 date: 2021-03-25T09:38:07+05:30
-draft: true
+draft: false
 tags: ["Kubernetes"]
 categories: ["k8s"] #Taxonomy
 ---
